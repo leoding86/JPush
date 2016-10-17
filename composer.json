@@ -1,0 +1,21 @@
+{
+    "name": "leoding86/JPush",
+    "description": "极光推送SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Ding",
+            "email": "leoding86@msn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "leoding86\\JPush\\": "src/"
+        }
+    }
+}
